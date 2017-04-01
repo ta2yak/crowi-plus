@@ -16,6 +16,7 @@ This is **crowi-plus** that is the fork of [Crowi](https://github.com/crowi/crow
   * Find plugins from [npm](https://www.npmjs.com/browse/keyword/crowi-plugin) or [github](https://github.com/search?q=topic%3Acrowi-plugin)!
 * Faster
   * Optimize client-side code chunks by Webpack
+  * Optimize server-side logging with [pino](https://www.npmjs.com/package/pino)
   * Using CDN
 * Secure
   * Upgrade jQuery to 3.x
@@ -26,6 +27,7 @@ This is **crowi-plus** that is the fork of [Crowi](https://github.com/crowi/crow
   * Less compile time
   * LiveReload separately available by server/client code change
   * Exclude Environment-dependency (confirmed to be developable on Win/Mac/Linux)
+  * Easy to switch logging level and namespaces
   
 Quick Start for Production
 ===========================
