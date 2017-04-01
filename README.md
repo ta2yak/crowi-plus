@@ -15,8 +15,8 @@ This is **crowi-plus** that is the fork of [Crowi](https://github.com/crowi/crow
 * Pluggable
   * Find plugins from [npm](https://www.npmjs.com/browse/keyword/crowi-plugin) or [github](https://github.com/search?q=topic%3Acrowi-plugin)!
 * Faster
-  * Optimize client-side code chunks by Webpack
-  * Optimize server-side logging with [pino](https://www.npmjs.com/package/pino)
+  * Optimized client-side code chunks by Webpack
+  * Optimized server-side logging with [pino](https://www.npmjs.com/package/pino)
   * Using CDN
 * Secure
   * Upgrade jQuery to 3.x
